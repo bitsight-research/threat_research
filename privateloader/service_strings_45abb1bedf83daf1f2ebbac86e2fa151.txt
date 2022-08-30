@@ -1,14 +1,17 @@
+
 0x4000ee 0.8
 0x402300 rb
 0x402db9 %X
 0x403066 Unknown
-0x403235 SOFTWARE\Microsoft\Cryptography\MachineGuid
+0x403235 SOFTWARE\Microsoft\Cryptography
+0x403288 MachineGuid
 0x4035ee Unknown
 0x40383d _
 0x40398e _
 0x403aa2 _
 0x404620 null
-0x404f83 http://212.193.30.21/proxies.txt
+0x404f83 http://212.193.30.45/proxies.txt
+0x405023 :1080
 0x405507 \n
 0x4057fb :1080
 0x405a84 :
@@ -16,13 +19,17 @@
 0x4060f6 .
 0x406360 .
 0x406514 .
-0x406d3a http://212.193.30.21/server.txt
+0x406d3a http://212.193.30.29/server.txt
+0x406ef5 HOST:
 0x40718f :
 0x4076a8 pastebin.com/raw/A7dSG1te
+0x40788c HOST:
 0x4079e0 HOST:
 0x407e98 http://wfsdragon.ru/api/setStats.php
+0x408409 HOST:
 0x4086a4 :
-0x408d39 softs-portal.com
+0x408d39 softs-portal.com/api/registerUser.php
+0x409298 HOST:
 0x409533 :
 0x40993c 212.193.30.21
 0x409dcd telegram.org
@@ -31,14 +38,18 @@
 0x40a166 google.com
 0x40a8ec data=
 0x40aba5 /service/communication.php
+0x40acfa http://
 0x40b8ab ipinfo.io/widget
+0x40bd04 country
 0x40be84 country
 0x40c220 db-ip.com
 0x40c43c data-api-key="
 0x40c6bd /self
 0x40c851 api.db-ip.com/v2/free
+0x40cdc8 countryCode
 0x40cf48 countryCode
-0x40d3dc www.maxmind.com/country
+0x40d3dc www.maxmind.com/geoip/v2.1/city/me
+0x40d47c country
 0x40d973 country
 0x40db0b country
 0x40dc43 iso_code
@@ -47,22 +58,26 @@
 0x40e15e GetIP
 0x40e2dc IP:
 0x40e422 IP:
-0x40e988 api.ipgeolocation.io/getip
+0x40e988 api.ipgeolocation.io/ipgeo?include=hostname&ip=
+0x40edf5 country_code2
 0x40ef75 country_code2
 0x40f1d4 PowerControl
 0x40f381 PowerControl
 0x40f545 \PowerControl
-0x40f8de \PowerControl_Sv_old
+0x40f8de \PowerControl_Svc.exe
+0x40fcbd _old
 0x410182 PowerControl
 0x41037d .\
-0x4106e2 Power monitoring
+0x4106e2 Power monitoring service for your device.
+0x410788 PowerControl
 0x410af0 WININET.dll
 0x410c2f WINHTTP.dll
 0x410ebf GetVersion|
 0x41109d _old
 0x4111fe _old
 0x4113ef GetUpdateLink
-0x411726 https://vipsofts
+0x411726 https://vipsofts.xyz/files/mega.bmp
+0x4117cc https://
 0x411b83 .exe
 0x411cb9 \
 0x41212a |
@@ -72,23 +87,33 @@
 0x412808 .exe
 0x41293e \
 0x412d30 open
-0x412fe0 " /tn "PowerCont" /tr "
+0x412fe0 " /tn "PowerControl HR" /sc HOURLY /rl HIGHEST
+0x413086 " /tr "
 0x41335e schtasks /create" /tn "PowerCont" /tr "
-0x413ac6 schtasks /create.
+0x413748 " /tn "PowerControl LG" /sc ONLOGON /rl HIGHEST
+0x4137ee " /tr "
+0x413ac6 schtasks /create /f /RU "
+0x42c512 .
 0x42c686 .dll
 0x42c7f8 #
 0x42ca84 WinHttpConnect
 0x42cb98 Winhttp.dll
 0x42cd96 WinHttpQueryHeaders
+0x42cde9 Winhttp.dll
 0x42d05d WinHttpOpen
 0x42d162 Winhttp.dll
 0x42d360 WinHttpOpenRequest
+0x42d3b3 Winhttp.dll
 0x42d6b6 WinHttpQueryDataAvailable
+0x42d709 Winhttp.dll
 0x42da1b WinHttpSendRequest
+0x42da6e Winhttp.dll
 0x42dd65 WinHttpReceiveResponse
+0x42ddb5 Winhttp.dll
 0x42e047 WinHttpReadData
 0x42e15b Winhttp.dll
 0x42e359 WinHttpCloseHandle
+0x42e3ac Winhttp.dll
 0x42eca1 http://
 0x42edea /
 0x42f002 ?
@@ -101,3 +126,13 @@
 0x431eae CharNextA
 0x431fb3 User32.dll
 0x43295c Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0x4329fc InternetOpenA
+0x432eee InternetSetOptionA
+0x4330e5 HttpOpenRequestA
+0x4332f7 InternetConnectA
+0x43350c InternetOpenUrlA
+0x433692 HttpQueryInfoA
+0x433854 InternetQueryOptionA
+0x433a69 HttpSendRequestA
+0x433c7e InternetReadFile
+0x433e78 InternetCloseHandle
