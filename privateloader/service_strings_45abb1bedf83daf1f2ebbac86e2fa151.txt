@@ -1,17 +1,16 @@
-
 0x4000ee 0.8
 0x402300 rb
 0x402db9 %X
 0x403066 Unknown
 0x403235 SOFTWARE\Microsoft\Cryptography
-0x403288 MachineGuid
+0x4033fe MachineGuid
 0x4035ee Unknown
 0x40383d _
 0x40398e _
 0x403aa2 _
 0x404620 null
 0x404f83 http://212.193.30.45/proxies.txt
-0x405023 :1080
+0x405301 :1080
 0x405507 \n
 0x4057fb :1080
 0x405a84 :
@@ -45,11 +44,11 @@
 0x40c220 db-ip.com
 0x40c43c data-api-key="
 0x40c6bd /self
-0x40c851 api.db-ip.com/v2/free
+0x40c851 api.db-ip.com/v2/
 0x40cdc8 countryCode
 0x40cf48 countryCode
 0x40d3dc www.maxmind.com/geoip/v2.1/city/me
-0x40d47c country
+0x40d7f3 country
 0x40d973 country
 0x40db0b country
 0x40dc43 iso_code
@@ -69,7 +68,7 @@
 0x410182 PowerControl
 0x41037d .\
 0x4106e2 Power monitoring service for your device.
-0x410788 PowerControl
+0x4108a8 PowerControl
 0x410af0 WININET.dll
 0x410c2f WINHTTP.dll
 0x410ebf GetVersion|
@@ -77,7 +76,7 @@
 0x4111fe _old
 0x4113ef GetUpdateLink
 0x411726 https://vipsofts.xyz/files/mega.bmp
-0x4117cc https://
+0x411980 https://
 0x411b83 .exe
 0x411cb9 \
 0x41212a |
@@ -88,10 +87,10 @@
 0x41293e \
 0x412d30 open
 0x412fe0 " /tn "PowerControl HR" /sc HOURLY /rl HIGHEST
-0x413086 " /tr "
-0x41335e schtasks /create" /tn "PowerCont" /tr "
+0x4131a6 " /tr "
+0x41335e schtasks /create /f /RU "
 0x413748 " /tn "PowerControl LG" /sc ONLOGON /rl HIGHEST
-0x4137ee " /tr "
+0x41390e " /tr "
 0x413ac6 schtasks /create /f /RU "
 0x42c512 .
 0x42c686 .dll
@@ -99,21 +98,21 @@
 0x42ca84 WinHttpConnect
 0x42cb98 Winhttp.dll
 0x42cd96 WinHttpQueryHeaders
-0x42cde9 Winhttp.dll
+0x42ceee Winhttp.dll
 0x42d05d WinHttpOpen
 0x42d162 Winhttp.dll
 0x42d360 WinHttpOpenRequest
-0x42d3b3 Winhttp.dll
+0x42d4b8 Winhttp.dll
 0x42d6b6 WinHttpQueryDataAvailable
-0x42d709 Winhttp.dll
+0x42d81d Winhttp.dll
 0x42da1b WinHttpSendRequest
-0x42da6e Winhttp.dll
+0x42db82 Winhttp.dll
 0x42dd65 WinHttpReceiveResponse
-0x42ddb5 Winhttp.dll
+0x42dec9 Winhttp.dll
 0x42e047 WinHttpReadData
 0x42e15b Winhttp.dll
 0x42e359 WinHttpCloseHandle
-0x42e3ac Winhttp.dll
+0x42e4c0 Winhttp.dll
 0x42eca1 http://
 0x42edea /
 0x42f002 ?
@@ -126,7 +125,7 @@
 0x431eae CharNextA
 0x431fb3 User32.dll
 0x43295c Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
-0x4329fc InternetOpenA
+0x432d47 InternetOpenA
 0x432eee InternetSetOptionA
 0x4330e5 HttpOpenRequestA
 0x4332f7 InternetConnectA
