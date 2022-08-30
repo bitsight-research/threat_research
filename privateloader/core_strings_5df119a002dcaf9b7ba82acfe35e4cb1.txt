@@ -1,0 +1,1728 @@
+0x1000044e 10
+0x10000662 Snowman+under_a_sn0wdrift_forgot_the_Snow_Maiden
+0x10010ff1 CBC
+0x1001ee57 SOFTWARE\LilFreske
+0x1001f34e SOFTWARE\LilFreske
+0x1001f741 Installed
+0x1001fc97 SOFTWARE\LilFreskeUS
+0x1002018e SOFTWARE\LilFreskeUS
+0x10020581 Installed
+0x100214c3 .
+0x1002183b .dll
+0x10021e03 #
+0x1002222d IsWow64Process
+0x10022375 GetModuleHandleA
+0x100224bd LoadLibraryA
+0x100225f9 SetPriorityClass
+0x1002273e Sleep
+0x10022836 GetTempPathA
+0x1002292e CreateProcessA
+0x10022a76 GetFileAttributesA
+0x10022c0e CreateDirectoryA
+0x10022d56 CreateThread
+0x10022e4e CloseHandle
+0x10022f46 VirtualAlloc
+0x1002303e VirtualFree
+0x10023136 OpenProcess
+0x1002327e TerminateProcess
+0x100233c6 GetUserGeoID
+0x100234ca ntdll.dll
+0x1002360d NtQuerySystemInformation
+0x10023758 RtlGetVersion
+0x1002385f Shell32.dll
+0x1002396b Shell32.dll
+0x10023a63 Shell32.dll
+0x10023b56 ShellExecuteA
+0x10023ca1 SHGetFolderPathA
+0x10023df7 Advapi32.dll
+0x10023f03 Advapi32.dll
+0x10023ffc Advapi32.dll
+0x100240ef RegOpenKeyExA
+0x100241ea RegSetValueExA
+0x100242e5 RegCloseKey
+0x100243e0 RegCreateKeyExA
+0x100244db RegDeleteKeyA
+0x100245d6 RegDeleteValueA
+0x10024706 RegQueryValueExA
+0x1002484e RegEnumKeyExA
+0x1002497e ConvertSidToStringSidA
+0x10024afb LookupAccountNameA
+0x10024c4f WINHTTP.dll
+0x10024d5b WINHTTP.dll
+0x10024e53 wininet.dll
+0x10024f5f wininet.dll
+0x100250be GetComputerNameA
+0x10025247 VerSetConditionMask
+0x100253dc VerifyVersionInfoW
+0x10025524 GetGeoInfoA
+0x1002566c GetCurrentProcess
+0x100257b4 GetVersionExA
+0x100258fc MultiByteToWideChar
+0x10025a94 WideCharToMultiByte
+0x10025c2c GetCurrentProcessId
+0x10025dc4 CreateToolhelp32Snapshot
+0x10025f0c Process32First
+0x10026004 Process32Next
+0x10026131 Wow64DisableWow64FsRedirection
+0x100262ab Wow64RevertWow64FsRedirection
+0x100263fc User32.dll
+0x10026507 User32.dll
+0x100265fa CharToOemA
+0x1002685f null
+0x100275a8 //Adobe Films
+0x100279ba SOFTWARE\Policies\Microsoft\Windows Defender
+0x10027efe DisableAntiSpyware
+0x1002848b DisableRoutinelyTakingAction
+0x10028d73 SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection
+0x1002931d DisableBehaviorMonitoring
+0x100297e7 DisableOnAccessProtection
+0x10029b01 DisableScanOnRealtimeEnable
+0x10029f3b DisableRealtimeMonitoring
+0x1002a510 DisableIOAVProtection
+0x1002a8cd DisableRawWriteNotification
+0x1002c0f7 Windows Server 2016
+0x1002c412 Windows Server 2012 R2
+0x1002c715 Windows Server 2012
+0x1002ca23 Windows Server 2008 R2
+0x1002cdb9 Windows Server 2008
+0x1002cefd Windows Server
+0x1002d2a3 Windows 10
+0x1002d5b6 Windows 8.1
+0x1002d842 Windows 8
+0x1002dab8 Windows 7
+0x1002dd38 Windows Vista
+0x1002de34 Windows XP
+0x1002df93  (x64)
+0x1002e048  (x32)
+0x1002e34d rb
+0x1002ec03 explorer.exe
+0x1002ede8 pid
+0x1002eedf path
+0x1002f0c2 md5
+0x1002f1b1 current
+0x1002f2fd children
+0x1002f43b children
+0x1002fc01 SOFTWARE\Classes\ms-settings\Shell\Open\command
+0x100300d5 DelegateExecute
+0x100304ae 
+0x1003074d \ComputerDefaults.exe
+0x100308b1 rb
+0x10030a64 open
+0x10030f21 SOFTWARE\Classes
+0x10031356 ms-settings\Shell\Open\command
+0x1003150e ms-settings\Shell\Open
+0x100316c6 ms-settings\Shell
+0x1003182d ms-settings
+0x100320b7 CBC
+0x1003243e data=
+0x100326df /base/api/getData.php
+0x100327f1 http://
+0x10033441 |
+0x10033500 |
+0x100335bf GetLinks|
+0x10033858 Error!
+0x10033b81 id
+0x10033ec9 url
+0x10034211 args
+0x10034568 type
+0x100346b0 onlyType
+0x10034e03 |
+0x10034ec2 |
+0x10034f81 GetExtensions|
+0x10035259 Error!
+0x10035666 id
+0x10035778 ext_url
+0x10035ac0 cfg_url
+0x10036474 ipinfo.io/widget
+0x10036898 country
+0x100369c0 country
+0x10036aca company
+0x10036c0a company
+0x10036cea name
+0x10036e25 Google LLC
+0x10036f7d company
+0x1003705d name
+0x10037383 db-ip.com
+0x10037553 data-api-key="
+0x100376f5 /self
+0x10037819 api.db-ip.com/v2/
+0x10037cc2 countryCode
+0x10037dea countryCode
+0x10037ef4 organization
+0x10038023 Google LLC
+0x10038163 organization
+0x10038619 www.maxmind.com/geoip/v2.1/city/me
+0x100388bc country
+0x100389e4 country
+0x10038b24 country
+0x10038c04 iso_code
+0x10038d50 country
+0x10038e30 iso_code
+0x10038f46 traits
+0x10039086 traits
+0x10039166 organization
+0x100392a1 Google LLC
+0x100393fa traits
+0x100394da organization
+0x100397cc GetIP
+0x100398cc IP:
+0x100399c9 IP:
+0x10039eb7 api.ipgeolocation.io/ipgeo?include=hostname&ip=
+0x1003a24f country_code2
+0x1003a377 country_code2
+0x1003a481 organization
+0x1003a5b0 Google LLC
+0x1003a6f4 organization
+0x1003d274 rb
+0x1003d828 wb
+0x1003f423 Guest Profile
+0x1003f562 System Profile
+0x1004006a \Google\Chrome\Application
+0x1004029a  (x86)\Google\Chrome\Application
+0x100404bd \Google\Chrome\Application
+0x1004068d  (x86)\Google\Chrome\Application
+0x100409e4 SOFTWARE\Google\Chrome\BLBeacon
+0x10040ccb version
+0x10040e1e \resources.pak
+0x10040f0a \
+0x1004124e SOFTWARE\Google\Chrome\PreferenceMACs
+0x10041516 \Google\Chrome\User Data\
+0x100417e3 \Secure Preferences
+0x10041d6b filter_browsers
+0x10041ebe filter_browsers
+0x10042088 chrome
+0x10042179 browser
+0x100423dc filter_browsers
+0x100425ad use_open_browser
+0x10042799 use_open_browser
+0x1004297c use_open_browser
+0x10042b4d extensions
+0x10042c2d settings
+0x10042d99 extensions
+0x10042e79 settings
+0x10042f7d install_time
+0x10043150 extensions
+0x10043230 settings
+0x10043334 path
+0x10043438 \Extensions\
+0x10043578 \/
+0x1004380f extensions
+0x100438ef settings
+0x10043a25 \u003C
+0x10043b17 <
+0x10043cb2 protection
+0x10043d92 macs
+0x10043e7e extensions
+0x10043f6a settings
+0x10044105 extensions.settings.
+0x10044330 protection
+0x10044410 macs
+0x100444fc protection
+0x100445dc super_mac
+0x100447a2 chrome.exe
+0x10044e61 extensions
+0x10044f41 settings
+0x10045095 extensions.settings.
+0x1004524d ChromeRegistryHashStoreValidationSeed
+0x100456e0 \extensions.settings
+0x100458c5 SOFTWARE\Google\Chrome\PreferenceMACs\
+0x100466e3 \chrome.exe
+0x10046e99 \Microsoft\Edge\Application
+0x100470b9  (x86)\Microsoft\Edge\Application
+0x100472dc \Microsoft\Edge\Application
+0x100474ac  (x86)\Microsoft\Edge\Application
+0x10047930 SOFTWARE\Microsoft\Edge\BLBeacon
+0x10047c67 version
+0x10047ed8 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x100481a0 \Microsoft\Edge\User Data\
+0x10048382 \Secure Preferences
+0x100488f5 filter_browsers
+0x10048a48 filter_browsers
+0x10048c12 edge
+0x10048d03 browser
+0x10048f5b filter_browsers
+0x1004912c use_open_browser
+0x10049318 use_open_browser
+0x100494fb use_open_browser
+0x100496cc extensions
+0x100497ac settings
+0x10049918 extensions
+0x100499f8 settings
+0x10049afc install_time
+0x10049ccf extensions
+0x10049daf settings
+0x10049eb3 path
+0x10049fb7 \Extensions\
+0x1004a0f7 \/
+0x1004a38e extensions
+0x1004a46e settings
+0x1004a5a4 \u003C
+0x1004a696 <
+0x1004a831 protection
+0x1004a911 macs
+0x1004a9fd extensions
+0x1004aae9 settings
+0x1004ac84 extensions.settings.
+0x1004aeaf protection
+0x1004af8f macs
+0x1004b07b protection
+0x1004b15b super_mac
+0x1004b321 msedge.exe
+0x1004b9e0 extensions
+0x1004bac0 settings
+0x1004bc14 extensions.settings.
+0x1004bdcc ChromeRegistryHashStoreValidationSeed
+0x1004c103 \extensions.settings
+0x1004c2e8 SOFTWARE\Microsoft\Edge\PreferenceMACs\
+0x1004cd18 \msedge.exe
+0x1004d14d \Roaming
+0x1004d24a \Roaming
+0x1004d35f \atomic
+0x1004d4a5 \Atomic Wallet
+0x1004d63b \com.liberty.jaxx
+0x1004d7d1 \Electrum
+0x1004d917 \Exodus
+0x1004da5d \MultiDoge
+0x1004dba3 \Exodus
+0x1004dce9 \Monero
+0x1004de2f \binance.chain
+0x1004df75 \Binance
+0x1004e0bb \Metamask
+0x1004e3eb SOFTWARE\Google\Chrome\PreferenceMACs
+0x1004e648 \Google\Chrome\User Data\
+0x1004e8ca \Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn
+0x1004ec06 \Local Extension Settings\ibnejdfjmmkpcnlpebklmnkoeoihofec
+0x1004ef42 \Local Extension Settings\fhbohimaelbohpjbbldcngcnapndodjp
+0x1004f27e \Local Extension Settings\fnjhmkhhmkbjkkabndcnnogagogbneec
+0x1004f5ba \Local Extension Settings\bfnaelmomeimhlpmgjnjophhpkkoljpa
+0x1004f8f6 \Local Extension Settings\fhilaheimglignddkjgofkcbgekhenbh
+0x1004fc32 \Local Extension Settings\mgffkfbidihjpoaomajlbgchddlicgpn
+0x1004ff6e \Local Extension Settings\aodkkagnadcbobfpggfnjeongemjbjca
+0x100502aa \Local Extension Settings\kpfopkelmapcoipemfendmdcghnegimn
+0x100505e6 \Local Extension Settings\fmblappgoiilbgafhjklehhfifbdocee
+0x10050922 \Local Extension Settings\hmeobnfnfcmdkdcmlblgagmfpfboieaf
+0x10050c5e \Local Extension Settings\lpfcbjknijpeeillifnkikgncikgfhdo
+0x10050f9a \Local Extension Settings\dngmlblcodfobpdpecaadgfbcggfjfnm
+0x10051269 robinhood.com
+0x10051378 yobit.net
+0x10051487 zb.com
+0x10051596 binance.com
+0x100516a5 huobi.com
+0x100517b4 okex.com
+0x100518c3 hitbtc.com
+0x100519d2 bitfinex.com
+0x10051ae1 kraken.com
+0x10051bf0 bitstamp.net
+0x10051cff payoneer.com
+0x10051e0e bittrex.com
+0x10051f6d bittrex.zendesk.com
+0x100520cc gate.io
+0x100521db exmo.com
+0x100522ea yobit.io
+0x100523f9 bitflyer.com
+0x10052508 poloniex.com
+0x10052617 kucoin.com
+0x10052726 coinone.co.kr
+0x10052885 localbitcoins.com
+0x100529e4 korbit.co.kr
+0x10052af3 cex.io
+0x10052c02 luno.com
+0x10052d11 bitkonan.com
+0x10052e20 jubi.com
+0x10052f2f koinex.in
+0x1005303e koineks.com
+0x1005314d kuna.io
+0x1005325c koinim.com
+0x1005336b kiwi-coin.com
+0x1005347a leoxchange.com
+0x10053589 lykke.com
+0x10053698 localtrade.cc
+0x100537a7 magnr.com
+0x100538b6 lbank.info
+0x100539c5 itbit.com
+0x10053ad4 gemini.com
+0x10053be3 gdax.com
+0x10053cf2 gatehub.net
+0x10053e51 satoshitango.com
+0x10053fb0 foxbit.com.br
+0x100540bf flowbtc.com.br
+0x100541ce exx.com
+0x100542dd exrates.me
+0x1005443c excambriorex.com
+0x1005459b ezbtc.ca
+0x100546fa infinitycoin.exchange
+0x10054859 tdax.com
+0x10054968 stex.com
+0x10054a77 vbtc.exchange
+0x10054bd6 coinmarketcap.com
+0x10054d35 vwlpro.com
+0x10054e44 nocks.com
+0x10054f53 nlexch.com
+0x100550b2 novaexchange.com
+0x10055211 mynxt.info
+0x10055320 nzbcx.com
+0x1005542f nevbit.com
+0x1005553e mixcoins.com
+0x1005564d mr.exchange
+0x1005575c neraex.pro
+0x1005586b dsx.uk
+0x1005597a okcoin.com
+0x10055a89 liquid.com
+0x10055b98 quoine.com
+0x10055ca7 quadrigacx.com
+0x10055db6 rightbtc.com
+0x10055ec5 rippex.net
+0x10055fd4 ripplefox.com
+0x100560e3 qryptos.com
+0x100561f2 ore.bz
+0x10056301 openledger.info
+0x10056410 omnidex.io
+0x1005651f paribu.com
+0x1005662e paymium.com
+0x1005673d dcexchange.ru
+0x1005684c dcexe.com
+0x1005695b bitmex.com
+0x10056a6a funpay.ru
+0x10056b79 bitmaszyna.pl
+0x10056c88 bitonic.nl
+0x10056d97 bitpanda.com
+0x10056ef6 bitsblockchain.net
+0x10057055 bitmarket.net
+0x10057164 bitlish.com
+0x10057273 bitfex.trade
+0x10057382 blockchain.com
+0x10057491 blockchain.info
+0x100575a0 cryptofresh.com
+0x100576af btcmarkets.net
+0x100577be braziliex.com
+0x1005791d btc-trade.com.ua
+0x10057a7c btc-alpha.com
+0x10057b8b bitspark.io
+0x10057c9a bitso.com
+0x10057df9 bittylicious.com
+0x10057fa8 altcointrader.co.za
+0x10058157 arenabitcoin.com
+0x100582b6 allcoin.com
+0x100583c5 796.com
+0x100584d4 abucoins.com
+0x100585e3 aidosmarket.com
+0x10058742 bitcointrade.com
+0x100588f1 bitcointoyou.com
+0x10058a50 bitbanktrade.jp
+0x10058b5f big.one
+0x10058c6e bcex.ca
+0x10058d7d bitconnect.co
+0x10058e8c coinsbank.com
+0x10058f9b coinsecure.in
+0x100590aa coinsquare.com
+0x100591b9 coinspot.io
+0x10059318 coinsmarkets.com
+0x100594c7 crypto-bridge.org
+0x10059626 dcex.com
+0x10059735 dabtc.com
+0x10059844 decentrex.com
+0x10059953 deribit.com
+0x10059a62 dgtmarket.com
+0x10059b71 btcturk.com
+0x10059c80 btcxindia.com
+0x10059d8f bt.cx
+0x10059e9e bitstarcoin.com
+0x10059fad coincheck.com
+0x1005a0bc coinmate.io
+0x1005a1cb coingi.com
+0x1005a2da coinnest.co.kr
+0x1005a3e9 coinrail.co.kr
+0x1005a4f8 coinpit.io
+0x1005a607 coingather.com
+0x1005a716 coinfloor.co.uk
+0x1005a825 coinegg.com
+0x1005a934 coincorner.com
+0x1005aa43 coinexchange.io
+0x1005aba2 pancakeswap.finance
+0x1005ad01 coinbase.com
+0x1005ae10 livecoin.net
+0x1005af1f mercatox.com
+0x1005b07e cryptobridge.freshdesk.com
+0x1005b1dd volabit.com
+0x1005b2ec tradeogre.com
+0x1005b3fb bitkub.com
+0x1005b50a uphold.com
+0x1005b669 wallet.uphold.com
+0x1005b818 login.blockchain.com
+0x1005b977 tidex.com
+0x1005ba86 coinome.com
+0x1005bbe5 coinpayments.net
+0x1005bd44 bitmax.io
+0x1005be53 bitbank.cc
+0x1005bfb2 independentreserve.com
+0x1005c111 bitmart.com
+0x1005c220 cryptopia.co.nz
+0x1005c32f cryptonator.com
+0x1005c43e advcash.com
+0x1005c59d my.dogechain.info
+0x1005c6fc spectrocoin.com
+0x1005c80b exir.io
+0x1005c91a exir.tech
+0x1005ca29 coinbene.com
+0x1005cb38 bitforex.com
+0x1005cc47 gopax.co.kr
+0x1005cd56 catex.io
+0x1005ce65 vindax.com
+0x1005cf74 coineal.com
+0x1005d083 maicoin.com
+0x1005d192 finexbox.com
+0x1005d2a1 etherflyer.com
+0x1005d3b0 bx.in.th
+0x1005d4bf bitopro.com
+0x1005d5ce citex.co.kr
+0x1005d6dd coinzo.com
+0x1005d7ec atomars.com
+0x1005d8fb coinfinit.com
+0x1005da0a bitker.com
+0x1005db19 dobitrade.com
+0x1005dc28 btcexa.com
+0x1005dd37 satowallet.com
+0x1005de46 cpdax.com
+0x1005df55 trade.io
+0x1005e064 btcnext.io
+0x1005e173 exmarkets.com
+0x1005e2d2 btc-exchange.com
+0x1005e431 chaoex.com
+0x1005e540 jex.com
+0x1005e69f therocktrading.com
+0x1005e7fe gdac.com
+0x1005e95d southxchange.com
+0x1005eabc tokens.net
+0x1005ebcb fexpro.net
+0x1005ecda btcbox.co.jp
+0x1005ede9 coinmex.com
+0x1005eef8 cryptology.com
+0x1005f007 cointiger.com
+0x1005f116 cashierest.com
+0x1005f225 coinbit.co.kr
+0x1005f334 mxc.com
+0x1005f443 bilaxy.com
+0x1005f552 coinall.com
+0x1005f661 coindeal.com
+0x1005f770 omgfin.com
+0x1005f87f oceanex.pro
+0x1005f98e bithumb.com
+0x1005fa9d ftx.com
+0x1005fbac shortex.net
+0x1005fcbb coin.z.com
+0x1005fdca fcoin.com
+0x1005fed9 fatbtc.com
+0x10060038 tokenize.exchange
+0x10060197 simex.global
+0x100602f6 instantbitex.com
+0x1006063f SOFTWARE\Google\Chrome\PreferenceMACs
+0x10060879 \Google\Chrome\User Data\
+0x10060a0b \Login Data
+0x10060c8b SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10060ec5 \Microsoft\Edge\User Data\
+0x10061057 \Login Data
+0x10061336 SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x10061610 \BraveSoftware\Brave-Browser\User Data\
+0x100617f2 \Login Data
+0x10061a8c SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10061cc6 \CryptoTab Browser\User Data\
+0x10061e58 \Login Data
+0x100621b9 \Roaming
+0x100622b6 \Roaming
+0x1006240f \Opera Software\Opera Stable
+0x10062578 \Login Data
+0x10062829 binance.com
+0x10062938 ascendex.com
+0x10062a47 kraken.com
+0x10062b56 huobi.com
+0x10062c65 coinbase.com
+0x10062d74 kucoin.com
+0x10062e83 hitbtc.com
+0x10062f92 gate.io
+0x100630a1 crypto.com
+0x100631b0 mercatox.com
+0x100632bf coins.ph
+0x100633ce coins.th
+0x100634dd poloniex.com
+0x100635ec bittrex.com
+0x100636fb bitpanda.com
+0x1006380a exmo.com
+0x10063919 dogechain.info
+0x10063a28 luno.com
+0x10063b37 bitkub.com
+0x10063c46 blockchain.com
+0x10063d55 livecoin.net
+0x10063eb4 miningpoolhub.com
+0x10064013 bitfinex.com
+0x1006430c SOFTWARE\Google\Chrome\PreferenceMACs
+0x10064569 \Google\Chrome\User Data\
+0x100646fb \Login Data
+0x10064a05 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10064c62 \Microsoft\Edge\User Data\
+0x10064df4 \Login Data
+0x10065159 SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x10065456 \BraveSoftware\Brave-Browser\User Data\
+0x10065638 \Login Data
+0x10065958 SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10065bb5 \CryptoTab Browser\User Data\
+0x10065d47 \Login Data
+0x1006612e \Roaming
+0x1006622b \Roaming
+0x10066390 \Opera Software\Opera Stable
+0x100664f9 \Login Data
+0x100667e9 yobit.net
+0x100668f8 yobit.io
+0x10066a07 zb.com
+0x10066b16 okex.com
+0x10066c25 bitstamp.net
+0x10066d34 bitflyer.com
+0x10066e43 coinone.co.kr
+0x10066fa2 localbitcoins.com
+0x10067101 korbit.co.kr
+0x10067210 bitmex.com
+0x1006736f cryptobridge.freshdesk.com
+0x100674ce volabit.com
+0x100675dd tradeogre.com
+0x100676ec uphold.com
+0x100677fb tidex.com
+0x1006790a coinome.com
+0x10067a19 bitso.com
+0x10067b78 coinpayments.net
+0x10067cd7 coinexchange.io
+0x10067de6 bitmax.io
+0x10067ef5 btc-alpha.com
+0x10068004 bitbank.cc
+0x10068163 independentreserve.com
+0x100682c2 bitmart.com
+0x100683d1 exmo.com
+0x100684e0 cex.io
+0x100685ef coinbase.com
+0x100686fe cryptopia.co.nz
+0x1006880d cryptonator.com
+0x1006891c advcash.com
+0x10068a2b spectrocoin.com
+0x10068b3a exir.io
+0x10068c49 exir.tech
+0x10068d58 coinbene.com
+0x10068e67 bitforex.com
+0x10068f76 gopax.co.kr
+0x10069085 catex.io
+0x10069194 vindax.com
+0x100692a3 coineal.com
+0x100693b2 maicoin.com
+0x100694c1 finexbox.com
+0x100695d0 etherflyer.com
+0x100696df bx.in.th
+0x100697ee bitopro.com
+0x100698fd lbank.info
+0x10069a0c citex.co.kr
+0x10069b1b coinzo.com
+0x10069c2a atomars.com
+0x10069d39 coinfinit.com
+0x10069e48 bitker.com
+0x10069fa7 btc-trade.com.ua
+0x1006a106 dobitrade.com
+0x1006a215 btcexa.com
+0x1006a324 satowallet.com
+0x1006a433 cpdax.com
+0x1006a542 trade.io
+0x1006a651 btcnext.io
+0x1006a760 exmarkets.com
+0x1006a86f localtrade.cc
+0x1006a9ce btc-exchange.com
+0x1006ab2d chaoex.com
+0x1006ac3c jex.com
+0x1006ad9b therocktrading.com
+0x1006aefa gdac.com
+0x1006b059 southxchange.com
+0x1006b1b8 tokens.net
+0x1006b2c7 fexpro.net
+0x1006b3d6 btcbox.co.jp
+0x1006b4e5 coinmex.com
+0x1006b5f4 cryptology.com
+0x1006b703 kuna.io
+0x1006b812 cointiger.com
+0x1006b921 cashierest.com
+0x1006ba30 liquid.com
+0x1006bb3f coinbit.co.kr
+0x1006bc4e mxc.com
+0x1006bd5d bilaxy.com
+0x1006be6c coinall.com
+0x1006bf7b coindeal.com
+0x1006c08a omgfin.com
+0x1006c199 stex.com
+0x1006c2a8 oceanex.pro
+0x1006c3b7 bithumb.com
+0x1006c4c6 ftx.com
+0x1006c5d5 shortex.net
+0x1006c6e4 coin.z.com
+0x1006c7f3 fcoin.com
+0x1006c902 fatbtc.com
+0x1006ca61 tokenize.exchange
+0x1006cbc0 simex.global
+0x1006cd1f instantbitex.com
+0x1006ce7e btcmarkets.net
+0x1006d177 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1006d3b1 \Google\Chrome\User Data\
+0x1006d543 \Login Data
+0x1006d7c3 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x1006d9fd \Microsoft\Edge\User Data\
+0x1006db8f \Login Data
+0x1006de6e SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1006e148 \BraveSoftware\Brave-Browser\User Data\
+0x1006e32a \Login Data
+0x1006e5c4 SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1006e7fe \CryptoTab Browser\User Data\
+0x1006e990 \Login Data
+0x1006ecf1 \Roaming
+0x1006edee \Roaming
+0x1006ef47 \Opera Software\Opera Stable
+0x1006f0b0 \Login Data
+0x1006f359 binance.com
+0x1006f654 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1006f8b1 \Google\Chrome\User Data\
+0x1006fa43 \Login Data
+0x1006fd5c SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x1006ffb9 \Microsoft\Edge\User Data\
+0x1007014b \Login Data
+0x100704bf SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x100707bc \BraveSoftware\Brave-Browser\User Data\
+0x1007099e \Login Data
+0x10070cbe SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10070f1b \CryptoTab Browser\User Data\
+0x100710ad \Login Data
+0x10071494 \Roaming
+0x10071591 \Roaming
+0x100716f6 \Opera Software\Opera Stable
+0x1007185f \Login Data
+0x10071b89 etrade.com
+0x10071c98 schwab.com
+0x10071da7 fidelity.com
+0x10071eb6 chase.com
+0x10072015 morganstanley.com
+0x10072174 citi.com
+0x10072283 robinhood.com
+0x10072392 navyfederal.org
+0x100724a1 ally.com
+0x10072600 schoolsfirstfcu.org
+0x1007275f redfcu.org
+0x1007286e mtb.com
+0x1007297d 53.com
+0x10072a8c easternbank.com
+0x10072beb bankofamerica.com
+0x10072d4a santander.com
+0x10072e59 marcus.com
+0x10072f68 schools.org
+0x10073077 cu.com
+0x10073186 usaa.com
+0x1007347f SOFTWARE\Google\Chrome\PreferenceMACs
+0x100736dc \Google\Chrome\User Data\
+0x1007386e \Login Data
+0x10073b78 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10073dd5 \Microsoft\Edge\User Data\
+0x10073f67 \Login Data
+0x100742cc SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x100745c9 \BraveSoftware\Brave-Browser\User Data\
+0x100747ab \Login Data
+0x10074acb SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10074d28 \CryptoTab Browser\User Data\
+0x10074eba \Login Data
+0x100752a1 \Roaming
+0x1007539e \Roaming
+0x10075503 \Opera Software\Opera Stable
+0x1007566c \Login Data
+0x10075999 ncsecu.org
+0x10075aa8 penfed.org
+0x10075bb7 becu.org
+0x10075d16 schoolsfirstfcu.org
+0x10075ec5 firsttechfed.com
+0x10076024 golden1.com
+0x10076183 alliantcreditunion.org
+0x10076332 americafirst.com
+0x100764e1 suncoastcreditunion.com
+0x10076640 secumd.org
+0x1007674f safecu.org
+0x1007685e missionfed.com
+0x1007696d greendot.com
+0x10076acc firsttechfed.com
+0x10076c7b americafirst.com
+0x10076dda rbfcu.org
+0x10076ee9 macu.com
+0x10076ff8 dcu.org
+0x10077107 ssfcu.org
+0x10077216 bethpagefcu.com
+0x10077325 starone.org
+0x10077434 alaskausa.org
+0x10077543 sdccu.com
+0x100776a2 aacreditunion.org
+0x10077801 lmcu.org
+0x10077910 teachersfcu.org
+0x10077a1f patelco.org
+0x10077b2e esl.org
+0x10077c3d onpointcu.com
+0x10077d9c logixbanking.com
+0x10077efb psecu.com
+0x1007805a deltacommunitycu.com
+0x100781b9 ent.com
+0x100782c8 cefcu.com
+0x100783d7 greenstate.org
+0x100784e6 unfcu.org
+0x100785f5 pffcu.org
+0x10078754 wingsfinancial.com
+0x10078903 iccu.comdesertfinancial.com
+0x10078a62 iccu.com
+0x10078bc1 desertfinancial.com
+0x10078d20 hvfcu.org
+0x10078e2f wpcu.coop
+0x10078f3e redwoodcu.org
+0x1007904d tcunet.com
+0x1007915c wsecu.org
+0x100792bb joviafinancial.com
+0x1007941a coastal24.com
+0x10079529 myeecu.org
+0x10079688 gecreditunion.org
+0x100797e7 nymcu.org
+0x100798f6 affinityfcu.com
+0x10079a05 towerfcu.org
+0x10079b14 safecu.org
+0x10079c23 ccu.com
+0x10079d82 communityamerica.com
+0x10079ee1 langleyfcu.org
+0x10079ff0 credithuman.com
+0x1007a0ff techcu.com
+0x1007a20e gecu.com
+0x1007a31d kfcu.org
+0x1007a42c applefcu.org
+0x1007a53b nasafcu.com
+0x1007a64a sfcu.org
+0x1007a759 genisyscu.org
+0x1007a868 unifyfcu.com
+0x1007a977 apcocu.org
+0x1007aad6 firstcommunity.com
+0x1007ac35 unitedfcu.com
+0x1007ad44 fairwinds.org
+0x1007ae53 ufcu.org
+0x1007af62 wescom.org
+0x1007b071 missionfed.com
+0x1007b180 bcu.org
+0x1007b28f vacu.org
+0x1007b3ee citadelbanking.com
+0x1007b54d servicecu.org
+0x1007b6ac summitcreditunion.com
+0x1007b80b secumd.org
+0x1007b91a gesa.com
+0x1007ba29 chevronfcu.org
+0x1007bb38 traviscu.org
+0x1007bc47 uwcu.org
+0x1007bda6 communityfirstcu.org
+0x1007bf05 ecu.org
+0x1007c014 sccu.com
+0x1007c123 bfsfcu.org
+0x1007c232 bellco.org
+0x1007c391 dfcufinancial.com
+0x1007c4f0 msufcu.org
+0x1007c5ff members1st.org
+0x1007c70e landmarkcu.com
+0x1007c81d kinecta.org
+0x1007c92c midflorida.com
+0x1007ca3b visionsfcu.org
+0x1007cb4a veridiancu.org
+0x1007cca9 statefarmfcu.com
+0x1007ce08 tinkerfcu.org
+0x1007cf17 sefcu.com
+0x1007d076 americanheritagecu.org
+0x1007d1d5 robinsfcu.org
+0x1007d2e4 canvas.org
+0x1007d443 growfinancial.org
+0x1007d5a2 truliantfcu.org
+0x1007d6b1 fairwinds.org
+0x1007d7c0 ascend.org
+0x1007d8cf foundersfcu.com
+0x1007d9de calcoastcu.org
+0x1007daed ucu.org
+0x1007dbfc connexuscu.org
+0x1007dd0b slfcu.org
+0x1007de1a numericacu.com
+0x1007df29 eecu.org
+0x1007e038 georgiasown.org
+0x1007e147 nusenda.org
+0x1007e2a6 tvacreditunion.com
+0x1007e405 pcu.org
+0x1007e514 msgcu.org
+0x1007e673 nuvisionfederal.com
+0x1007e822 trumarkonline.org
+0x1007e981 navigantcu.org
+0x1007ea90 ornlfcu.com
+0x1007eb9f jscfcu.org
+0x1007ecae lgfcu.org
+0x1007ee0d elevationscu.com
+0x1007efbc gtefinancial.org
+0x1007f11b chartway.com
+0x1007f22a ecu.com
+0x1007f339 sdfcu.org
+0x1007f448 apcu.com
+0x1007f557 schools.org
+0x1007f666 metrocu.org
+0x1007f775 campuscu.com
+0x1007f884 adviacu.org
+0x1007f993 psfcu.com
+0x1007faa2 andrewsfcu.org
+0x1007fbb1 eglinfcu.org
+0x1007fcc0 imcu.com
+0x1007fe1f americaneagle.org
+0x1007ff7e ttcu.com
+0x1008008d vantagewest.org
+0x1008019c empowerfcu.com
+0x100802ab rfcu.com
+0x100803ba capcomfcu.org
+0x10080519 arizonafederal.org
+0x100806c8 csecreditunion.com
+0x10080877 communityfirstfl.org
+0x100809d6 bayportcu.org
+0x10080ae5 gwcu.org
+0x10080bf4 wecu.com
+0x10080ef0 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1008112a \Google\Chrome\User Data\
+0x100812bc \Login Data
+0x1008153c SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10081776 \Microsoft\Edge\User Data\
+0x10081908 \Login Data
+0x10081be7 SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x10081ec1 \BraveSoftware\Brave-Browser\User Data\
+0x100820a3 \Login Data
+0x1008233d SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10082577 \CryptoTab Browser\User Data\
+0x10082709 \Login Data
+0x10082a6a \Roaming
+0x10082b67 \Roaming
+0x10082cc0 \Opera Software\Opera Stable
+0x10082e29 \Login Data
+0x100830d9 stgeorge.com.au
+0x100831e8 imb.com.au
+0x100832f7 ing.com.au
+0x10083456 bankofmelbourne.com.au
+0x10083605 regionalaustraliabank.com
+0x10083764 suncorp.com.au
+0x100838c3 regionalaustraliabank.com.au
+0x10083c0e SOFTWARE\Google\Chrome\PreferenceMACs
+0x10083e6b \Google\Chrome\User Data\
+0x10083ffd \Login Data
+0x10084316 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10084573 \Microsoft\Edge\User Data\
+0x10084705 \Login Data
+0x10084a6a SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x10084d67 \BraveSoftware\Brave-Browser\User Data\
+0x10084f49 \Login Data
+0x10085269 SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x100854c6 \CryptoTab Browser\User Data\
+0x10085658 \Login Data
+0x10085a3f \Roaming
+0x10085b3c \Roaming
+0x10085ca1 \Opera Software\Opera Stable
+0x10085e0a \Login Data
+0x10086189 neofinancial.com
+0x100862e8 bmo.com
+0x10086447 rbcroyalbank.com
+0x10086793 SOFTWARE\Google\Chrome\PreferenceMACs
+0x100869f0 \Google\Chrome\User Data\
+0x10086b82 \Login Data
+0x10086e9b SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x100870f8 \Microsoft\Edge\User Data\
+0x1008728a \Login Data
+0x100875fe SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x100878fb \BraveSoftware\Brave-Browser\User Data\
+0x10087add \Login Data
+0x10087dfd SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1008805a \CryptoTab Browser\User Data\
+0x100881ec \Login Data
+0x100885d3 \Roaming
+0x100886d0 \Roaming
+0x10088835 \Opera Software\Opera Stable
+0x1008899e \Login Data
+0x10088cc9 usaa.com
+0x10088fc4 SOFTWARE\Google\Chrome\PreferenceMACs
+0x10089221 \Google\Chrome\User Data\
+0x100893b3 \Login Data
+0x100896cc SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10089929 \Microsoft\Edge\User Data\
+0x10089abb \Login Data
+0x10089e2f SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1008a12c \BraveSoftware\Brave-Browser\User Data\
+0x1008a30e \Login Data
+0x1008a62e SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1008a88b \CryptoTab Browser\User Data\
+0x1008aa1d \Login Data
+0x1008ae04 \Roaming
+0x1008af01 \Roaming
+0x1008b066 \Opera Software\Opera Stable
+0x1008b1cf \Login Data
+0x1008b4f9 robinhood.com
+0x1008b608 navyfederal.org
+0x1008b901 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1008bb5e \Google\Chrome\User Data\
+0x1008bcf0 \Login Data
+0x1008c009 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x1008c266 \Microsoft\Edge\User Data\
+0x1008c3f8 \Login Data
+0x1008c76c SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1008ca69 \BraveSoftware\Brave-Browser\User Data\
+0x1008cc4b \Login Data
+0x1008cf6b SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1008d1c8 \CryptoTab Browser\User Data\
+0x1008d35a \Login Data
+0x1008d741 \Roaming
+0x1008d83e \Roaming
+0x1008d9a3 \Opera Software\Opera Stable
+0x1008db0c \Login Data
+0x1008de39 tboholidays.com
+0x1008df48 24x7rooms.com
+0x1008e057 adonis.com
+0x1008e166 abreuonline.com
+0x1008e275 almundo.com.ar
+0x1008e384 bonotel.com
+0x1008e493 bookohotel.com
+0x1008e5a2 didatravel.com
+0x1008e6b1 dotwconnect.com
+0x1008e7c0 eetglobal.com
+0x1008e8cf escalabeds.com
+0x1008ea2e fastpayhotels.com
+0x1008eb8d getaroom.com
+0x1008ec9c goglobal.travel
+0x1008edab hoteldo.com.mx
+0x1008eeba hotelspro.com
+0x1008efc9 jumbonline.com
+0x1008f0d8 kaluahtours.com
+0x1008f1e7 lci-euro.com
+0x1008f346 lotsofhotels.com
+0x1008f4a5 mikinet.co.uk
+0x1008f5b4 misterroom.com
+0x1008f6c3 nexustours.com
+0x1008f822 olympiaeurope.com
+0x1008f981 paximum.com
+0x1008fa90 restel.es
+0x1008fb9f rezserver.com
+0x1008fcae rezlive.com
+0x1008fdbd sunhotels.com
+0x1008fecc totalstay.com
+0x1008ffdb travco.co.uk
+0x100900ea travellanda.com
+0x100901f9 smyrooms.com
+0x10090308 welcomebeds.com
+0x10090417 yalago.com
+0x10090526 hotelbeds.com
+0x10090822 SOFTWARE\Google\Chrome\PreferenceMACs
+0x10090a7f \Google\Chrome\User Data\
+0x10090c11 \Login Data
+0x10090f1b SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10091178 \Microsoft\Edge\User Data\
+0x1009130a \Login Data
+0x1009166f SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1009196c \BraveSoftware\Brave-Browser\User Data\
+0x10091b4e \Login Data
+0x10091e6e SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x100920cb \CryptoTab Browser\User Data\
+0x1009225d \Login Data
+0x10092644 \Roaming
+0x10092741 \Roaming
+0x100928a6 \Opera Software\Opera Stable
+0x10092a0f \Login Data
+0x10092d49 mercadolibre.com.mx
+0x10092ea8 hsbc.com.mx
+0x10092fb7 bbvanetcash.mx
+0x10093116 scotiabank.com.mx
+0x100932c5 santander.com.mx
+0x10093424 bbva.mx
+0x10093720 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1009397d \Google\Chrome\User Data\
+0x10093b0f \Login Data
+0x10093e28 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10094085 \Microsoft\Edge\User Data\
+0x10094217 \Login Data
+0x1009457c SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x10094879 \BraveSoftware\Brave-Browser\User Data\
+0x10094a5b \Login Data
+0x10094d7b SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10094fd8 \CryptoTab Browser\User Data\
+0x1009516a \Login Data
+0x10095551 \Roaming
+0x1009564e \Roaming
+0x100957b3 \Opera Software\Opera Stable
+0x1009591c \Login Data
+0x10095c49 opensea.io
+0x10095da8 plantvsundead.com
+0x10095f57 axieinfinity.com
+0x100960b6 cryptocars.me
+0x100961c5 bombcrypto.io
+0x100962d4 cryptoplanes.me
+0x100963e3 cryptozoon.io
+0x100966de SOFTWARE\Google\Chrome\PreferenceMACs
+0x1009693b \Google\Chrome\User Data\
+0x10096acd \Login Data
+0x10096de6 SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10097043 \Microsoft\Edge\User Data\
+0x100971d5 \Login Data
+0x1009753a SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x10097837 \BraveSoftware\Brave-Browser\User Data\
+0x10097a19 \Login Data
+0x10097d39 SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x10097f96 \CryptoTab Browser\User Data\
+0x10098128 \Login Data
+0x1009850f \Roaming
+0x1009860c \Roaming
+0x10098771 \Opera Software\Opera Stable
+0x100988da \Login Data
+0x10098c09 bankalhabib.com
+0x10098f04 SOFTWARE\Google\Chrome\PreferenceMACs
+0x10099161 \Google\Chrome\User Data\
+0x100992f3 \Login Data
+0x1009960c SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x10099869 \Microsoft\Edge\User Data\
+0x100999fb \Login Data
+0x10099d6f SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1009a06c \BraveSoftware\Brave-Browser\User Data\
+0x1009a24e \Login Data
+0x1009a56e SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1009a7cb \CryptoTab Browser\User Data\
+0x1009a95d \Login Data
+0x1009ad44 \Roaming
+0x1009ae41 \Roaming
+0x1009afa6 \Opera Software\Opera Stable
+0x1009b10f \Login Data
+0x1009b439 ruralvia.com
+0x1009b548 ruralvia.es
+0x1009b6a7 bankinterconsumerfinance.com
+0x1009b9f3 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1009bc50 \Google\Chrome\User Data\
+0x1009bde2 \Login Data
+0x1009c0fb SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x1009c358 \Microsoft\Edge\User Data\
+0x1009c4ea \Login Data
+0x1009c85e SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1009cb5b \BraveSoftware\Brave-Browser\User Data\
+0x1009cd3d \Login Data
+0x1009d05d SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1009d2ba \CryptoTab Browser\User Data\
+0x1009d44c \Login Data
+0x1009d833 \Roaming
+0x1009d930 \Roaming
+0x1009da95 \Opera Software\Opera Stable
+0x1009dbfe \Login Data
+0x1009df29 amazon.it
+0x1009e038 amazon.ca
+0x1009e147 amazon.de
+0x1009e443 SOFTWARE\Google\Chrome\PreferenceMACs
+0x1009e6a0 \Google\Chrome\User Data\
+0x1009e832 \Login Data
+0x1009eb4b SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x1009eda8 \Microsoft\Edge\User Data\
+0x1009ef3a \Login Data
+0x1009f2ae SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x1009f5ab \BraveSoftware\Brave-Browser\User Data\
+0x1009f78d \Login Data
+0x1009faad SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x1009fd0a \CryptoTab Browser\User Data\
+0x1009fe9c \Login Data
+0x100a0283 \Roaming
+0x100a0380 \Roaming
+0x100a04e5 \Opera Software\Opera Stable
+0x100a064e \Login Data
+0x100a0979 amazon.com
+0x100a0a88 netspend.com
+0x100a0b97 online.citi.com
+0x100a0e93 SOFTWARE\Google\Chrome\PreferenceMACs
+0x100a10f0 \Google\Chrome\User Data\
+0x100a1282 \Login Data
+0x100a159b SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x100a17f8 \Microsoft\Edge\User Data\
+0x100a198a \Login Data
+0x100a1cfe SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x100a1ffb \BraveSoftware\Brave-Browser\User Data\
+0x100a21dd \Login Data
+0x100a24fd SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x100a275a \CryptoTab Browser\User Data\
+0x100a28ec \Login Data
+0x100a2cd3 \Roaming
+0x100a2dd0 \Roaming
+0x100a2f35 \Opera Software\Opera Stable
+0x100a309e \Login Data
+0x100a33c9 cloud.ibm.com
+0x100a34d8 ca.ovh.com
+0x100a3637 account.alibabacloud.com
+0x100a37e6 cloud.huawei.com
+0x100a3995 cloud.tencent.com
+0x100a3af4 vultr.com
+0x100a3c03 aws.amazon.com
+0x100a3d62 portal.azure.com
+0x100a3f11 digitalocean.com
+0x100a40c0 console.scaleway.com
+0x100a421f hetzner.com
+0x100a432e linode.com
+0x100a443d oracle.com
+0x100a454c rackspace.com
+0x100a465b phoenixnap.com
+0x100a476a leaseweb.com
+0x100a4879 sso.ctl.io
+0x100a4988 ctl.io
+0x100a4a97 lumen.com
+0x100a4d92 SOFTWARE\Google\Chrome\PreferenceMACs
+0x100a4fef \Google\Chrome\User Data\
+0x100a5181 \Login Data
+0x100a548b SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x100a56e8 \Microsoft\Edge\User Data\
+0x100a587a \Login Data
+0x100a5bdf SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x100a5edc \BraveSoftware\Brave-Browser\User Data\
+0x100a60be \Login Data
+0x100a63de SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x100a663b \CryptoTab Browser\User Data\
+0x100a67cd \Login Data
+0x100a6bb4 \Roaming
+0x100a6cb1 \Roaming
+0x100a6e16 \Opera Software\Opera Stable
+0x100a6f7f \Login Data
+0x100a72a9 paypal.com
+0x100a75a4 SOFTWARE\Google\Chrome\PreferenceMACs
+0x100a7801 \Google\Chrome\User Data\
+0x100a7993 \Login Data
+0x100a7cac SOFTWARE\Microsoft\Edge\PreferenceMACs
+0x100a7f09 \Microsoft\Edge\User Data\
+0x100a809b \Login Data
+0x100a840f SOFTWARE\BraveSoftware\Brave-Browser\PreferenceMACs
+0x100a870c \BraveSoftware\Brave-Browser\User Data\
+0x100a88ee \Login Data
+0x100a8c0e SOFTWARE\CryptoTab Browser\PreferenceMACs
+0x100a8e6b \CryptoTab Browser\User Data\
+0x100a8ffd \Login Data
+0x100a93e4 \Roaming
+0x100a94e1 \Roaming
+0x100a9646 \Opera Software\Opera Stable
+0x100a97af \Login Data
+0x100a9acb WW_P_7
+0x100a9bc5 WW_P_8
+0x100a9cc2 -1
+0x100a9edc https://
+0x100aa574 rb
+0x100ab6f8 wb
+0x100abd32 .exe
+0x100ac199 open
+0x100ac907 WW_P_
+0x100aca28 WW_P_1
+0x100acb3a WW_P_7
+0x100acc4c WW_P_8
+0x100ace10 |
+0x100acee4 AddLoggerStat|
+0x100ad05e links
+0x100ad154 extensions
+0x100ad256 EU
+0x100ad3c6 ezstat.ru/1BfPg7
+0x100ad514 USA_1
+0x100ad684 iplis.ru/1BX4j7.png
+0x100ad81d iplis.ru/1BV4j7.mp4
+0x100ad96b USA_2
+0x100adadb iplis.ru/1BC4j7.mp3
+0x100adc74 iplis.ru/1BV4j7.mp4
+0x100ade0d iplis.ru/1cC8u7.mp3
+0x100adfa6 iplis.ru/1G8Fx7.mp3
+0x100ae0f4 WW_1
+0x100ae264 iplis.ru/1BNhx7.mp3
+0x100ae3fd iplis.ru/1G8Fx7.mp3
+0x100ae546 US
+0x100ae6b6 iplis.ru/1pRXr7.txt
+0x100ae84f iplis.ru/1BV4j7.mp4
+0x100ae99d WW_2
+0x100aeb0d SetIncrement|ww_starts
+0x100aec5d false
+0x100aedc8 iplis.ru/1S2Qs7.mp3
+0x100aef61 iplis.ru/1G8Fx7.mp3
+0x100af0aa US
+0x100af21a iplis.ru/1pRXr7.txt
+0x100af3b3 iplis.ru/1BV4j7.mp4
+0x100af50c WW_3
+0x100af67c SetIncrement|ww_starts
+0x100af7cc false
+0x100af937 iplis.ru/1S3fd7.mp3
+0x100afad0 iplis.ru/1G8Fx7.mp3
+0x100afc19 US
+0x100afd89 iplis.ru/1pRXr7.txt
+0x100aff22 iplis.ru/1BV4j7.mp4
+0x100b007b WW_4
+0x100b01eb SetIncrement|ww_starts
+0x100b033b false
+0x100b04a6 iplis.ru/17VHv7.mp3
+0x100b063f iplis.ru/1G8Fx7.mp3
+0x100b0788 US
+0x100b08f8 iplis.ru/1pRXr7.txt
+0x100b0a91 iplis.ru/1BV4j7.mp4
+0x100b0bea WW_5
+0x100b0d5a iplis.ru/1GLDc7.mp3
+0x100b0ef3 iplis.ru/1G8Fx7.mp3
+0x100b103c US
+0x100b11ac iplis.ru/1pRXr7.txt
+0x100b1345 iplis.ru/1BV4j7.mp4
+0x100b1493 WW_6
+0x100b1603 SetIncrement|ww_starts
+0x100b1753 false
+0x100b18be iplis.ru/1xDsk7.mp3
+0x100b1a57 iplis.ru/1G8Fx7.mp3
+0x100b1ba0 US
+0x100b1d10 iplis.ru/1pRXr7.txt
+0x100b1ea9 iplis.ru/1BV4j7.mp4
+0x100b2002 WW_7
+0x100b2172 SetIncrement|ww_starts
+0x100b22c2 false
+0x100b242d iplis.ru/1xFsk7.mp3
+0x100b25ba iplis.ru/1G8Fx7.mp3
+0x100b2700 US
+0x100b2855 iplis.ru/1pRXr7.txt
+0x100b29eb iplis.ru/1BV4j7.mp4
+0x100b2b44 WW_OPERA
+0x100b2cb4 SetIncrement|ww_starts
+0x100b2e04 false
+0x100b2f6f iplis.ru/1GCuv7.pdf
+0x100b3108 iplis.ru/1G8Fx7.mp3
+0x100b3251 US
+0x100b33c1 iplis.ru/1pRXr7.txt
+0x100b355a iplis.ru/1BV4j7.mp4
+0x100b36b3 WW_8
+0x100b3823 iplis.ru/1lmex.mp3
+0x100b39bc iplis.ru/1G8Fx7.mp3
+0x100b3b05 US
+0x100b3c75 iplis.ru/1pRXr7.txt
+0x100b3e0e iplis.ru/1BV4j7.mp4
+0x100b3f5c WW_9
+0x100b40cc SetIncrement|ww_starts
+0x100b421c false
+0x100b4387 iplis.ru/1Gemv7.mp3
+0x100b4520 iplis.ru/1G8Fx7.mp3
+0x100b4669 US
+0x100b47d9 iplis.ru/1pRXr7.txt
+0x100b4972 iplis.ru/1BV4j7.mp4
+0x100b4acb WW_10
+0x100b4c3b SetIncrement|ww_starts
+0x100b4d8b false
+0x100b4ef6 iplis.ru/1Gymv7.mp3
+0x100b508f iplis.ru/1G8Fx7.mp3
+0x100b51d8 US
+0x100b5348 iplis.ru/1pRXr7.txt
+0x100b54e1 iplis.ru/1BV4j7.mp4
+0x100b563a WW_11
+0x100b57aa SetIncrement|ww_starts
+0x100b58fa false
+0x100b5a65 iplis.ru/1tqHh7.mp3
+0x100b5bfe iplis.ru/1G8Fx7.mp3
+0x100b5d47 US
+0x100b5eb7 iplis.ru/1pRXr7.txt
+0x100b6050 iplis.ru/1BV4j7.mp4
+0x100b61a9 WW_12
+0x100b62fe iplis.ru/1aFYp7.mp3
+0x100b6494 iplis.ru/1G8Fx7.mp3
+0x100b65dd US
+0x100b674d iplis.ru/1pRXr7.txt
+0x100b68e6 iplis.ru/1BV4j7.mp4
+0x100b6a34 WW_13
+0x100b6ba4 iplis.ru/1cC8u7.mp3
+0x100b6d3d iplis.ru/1G8Fx7.mp3
+0x100b6e86 US
+0x100b6ff6 iplis.ru/1pRXr7.txt
+0x100b718f iplis.ru/1BV4j7.mp4
+0x100b72dd WW_14
+0x100b744d iplis.ru/1cN8u7.mp3
+0x100b759b WW_15
+0x100b76f0 SetIncrement|ww_starts
+0x100b783d false
+0x100b79a8 iplis.ru/1kicy7.mp3
+0x100b7b41 iplis.ru/1G8Fx7.mp3
+0x100b7c8a US
+0x100b7dfa iplis.ru/1pRXr7.txt
+0x100b7f93 iplis.ru/1BV4j7.mp4
+0x100b80ec WW_P_1
+0x100b825c iplis.ru/1BMhx7.mp3
+0x100b83aa WW_16
+0x100b851a SetIncrement|ww_starts
+0x100b866a false
+0x100b87d5 iplis.ru/1edLy7.png
+0x100b896e iplis.ru/1G8Fx7.mp3
+0x100b8ab7 US
+0x100b8c27 iplis.ru/1pRXr7.txt
+0x100b8dc0 iplis.ru/1BV4j7.mp4
+0x100b8f19 WW_17
+0x100b9089 iplis.ru/1nGPt7.png
+0x100b9222 iplis.ru/1G8Fx7.mp3
+0x100b936b US
+0x100b94db iplis.ru/1pRXr7.txt
+0x100b9674 iplis.ru/1BV4j7.mp4
+0x100b97c2 WW_P_2
+0x100b9932 iplis.ru/1Bshv7.mp3
+0x100b9a80 WW_P_3
+0x100b9bf0 iplis.ru/1Lgnh7.mp3
+0x100b9d3e WW_P_4
+0x100b9eae iplis.ru/1vt8c7.mp3
+0x100b9ffc WW_P_5
+0x100ba16c iplis.ru/1IcfD.mp3
+0x100ba2c1 WW_P_6
+0x100ba3d3 WW_P_7
+0x100ba595 iplis.ru/1eXqs7.mp3
+0x100ba6e3 WW_P_8
+0x100ba853 iplis.ru/1Unzy7.mp3
+0x100ba9a1 WW_18
+0x100bab11 iplis.ru/12hYs7.mp3
+0x100bacb9 iplis.ru/1G8Fx7.mp3
+0x100bae09 US
+0x100bafb9 iplis.ru/1pRXr7.txt
+0x100bb152 iplis.ru/1BV4j7.mp4
+0x100bb2a0 WW_19
+0x100bb410 SetIncrement|ww_starts
+0x100bb560 false
+0x100bb6cb iplis.ru/12d8d7.mp3
+0x100bb864 iplis.ru/1G8Fx7.mp3
+0x100bb9ad US
+0x100bbb1d iplis.ru/1pRXr7.txt
+0x100bbcb6 iplis.ru/1BV4j7.mp4
+0x100bbe0f WW_20
+0x100bbf7f iplis.ru/1Uvgu7.mp3
+0x100bc118 iplis.ru/1G8Fx7.mp3
+0x100bc261 US
+0x100bc3d1 iplis.ru/1pRXr7.txt
+0x100bc56a iplis.ru/1BV4j7.mp4
+0x100bc6b8 WW_21
+0x100bc828 SetIncrement|ww_starts
+0x100bc978 false
+0x100bcae3 iplis.ru/1jvTz7.mp3
+0x100bcc7c iplis.ru/1G8Fx7.mp3
+0x100bcdc5 US
+0x100bcf35 iplis.ru/1pRXr7.txt
+0x100bd0ce iplis.ru/1BV4j7.mp4
+0x100bd2e1 ids
+0x100bd431 browsers
+0x100bd61f id
+0x100bd740 extensions
+0x100bd8b2 Chrome:
+0x100bd9f7 browser
+0x100bdb06 browsers
+0x100bdc76 Edge:
+0x100bddac browser
+0x100bdea6 browsers
+0x100bdfd2 os_country_code
+0x100be088 country
+0x100be1ea os
+0x100be336 ip_country
+0x100be484 AddExtensionStat|
+0x100be78e .exe
+0x100be89e \
+0x100bf445 \
+0x100bf681 https://
+0x100bf969 https://
+0x100c035e open
+0x100c0888 open
+0x100c0ada links
+0x100c0c2a extensions
+0x100c0dc1 net_country_code
+0x100c0f64 os_country_code
+0x100c1457 wininet.dll
+0x100c1677 WW_P_
+0x100c1798 WW_P_1
+0x100c196b WW_P_1
+0x100c1a7d WW_20
+0x100c1d6b http://45.144.225.57/download/NiceProcessX64.bmp
+0x100c1f32 -1
+0x100c21b0 http://45.144.225.57/download/NiceProcessX32.bmp
+0x100c2377 -1
+0x100c2497 WW_20
+0x100c2607 iplis.ru/1Uvgu7.mp3
+0x100c2760 WW_P_8
+0x100c2a67 https://cdn.discordapp.com/attachments/910842184708792331/931507465563045909/dingo_20220114120058.bmp
+0x100c2d33 -1
+0x100c2eff WW_P_7
+0x100c30c6 https://c.xyzgamec.com/userdown/2202/random.exe
+0x100c3252 -1
+0x100c3499 http://193.56.146.76/Proxytest.exe
+0x100c361f -1
+0x100c38dd http://www.yzsyjyjh.com/askhelp23/askinstall23.exe
+0x100c3ab9 -1
+0x100c3d27 http://91.241.19.125/pub.php?pub=one
+0x100c3eb3 -1
+0x100c4171 http://privacy-tools-for-you-780.com/downloads/toolspab3.exe
+0x100c434d -1
+0x100c45bb http://luminati-china.xyz/aman/casper2.exe
+0x100c4747 -1
+0x100c4a55 https://innovicservice.net/assets/vendor/counterup/RobCleanerInstlr95038215.exe
+0x100c4c81 -1
+0x100c4efa http://tg8.cllgxx.com/hp8/g1/yrpp1047.exe
+0x100c5086 -1
+0x100c5356 https://cdn.discordapp.com/attachments/910842184708792331/930849718240698368/Roll.bmp
+0x100c55d2 1916
+0x100c58a2 https://cdn.discordapp.com/attachments/910842184708792331/930850766787330068/real1201.bmp
+0x100c5b1e 468
+0x100c5dee https://cdn.discordapp.com/attachments/910842184708792331/930882959131693096/Installer.bmp
+0x100c606a 1920
+0x100c623e http://185.215.113.208/ferrari.exe
+0x100c63c7 1750
+0x100c66e7 https://cdn.discordapp.com/attachments/910842184708792331/931233371110141962/LingeringsAntiphon.bmp
+0x100c69b3 1927
+0x100c6c83 https://cdn.discordapp.com/attachments/910842184708792331/931285223709225071/russ.bmp
+0x100c6eff 1929
+0x100c71cf https://cdn.discordapp.com/attachments/910842184708792331/932720393201016842/filinnn.bmp
+0x100c744b 1946
+0x100c771b https://cdn.discordapp.com/attachments/910842184708792331/933436611427979305/build20k.bmp
+0x100c7997 1985
+0x100c7ad5 WW_P_6
+0x100c7c75 https://c.xyzgamec.com/userdown/2202/random.exe
+0x100c7dfb -1
+0x100c7fdb http://mnbuiy.pw/adsli/note8876.exe
+0x100c8167 -1
+0x100c8397 http://www.yzsyjyjh.com/askhelp23/askinstall23.exe
+0x100c8573 -1
+0x100c8753 http://91.241.19.125/pub.php?pub=one
+0x100c88df -1
+0x100c8a6f http://sarfoods.com/index.php
+0x100c8bab -1
+0x100c8d8b http://luminati-china.xyz/aman/casper2.exe
+0x100c8f17 -1
+0x100c9147 https://suprimax.vet.br/css/fonts/OneCleanerInst942914.exe
+0x100c9323 -1
+0x100c9503 http://tg8.cllgxx.com/hp8/g1/ssaa1047.exe
+0x100c968f -1
+0x100c97cd WW_P_5
+0x100c9a91 https://www.deezloader.app/files/Deezloader_Remix_Installer_64_bit_4.3.0_Setup.exe
+0x100c9d0d -1
+0x100c9fe2 https://www.deezloader.app/files/Deezloader_Remix_Installer_32_bit_4.3.0_Setup.exe
+0x100ca25e -1
+0x100ca39c WW_P_4
+0x100ca653 https://cdn.discordapp.com/attachments/910281601559167006/911516400005296219/anyname.exe
+0x100ca8cf -1
+0x100cab9f https://cdn.discordapp.com/attachments/910281601559167006/911516894660530226/PBsecond.exe
+0x100cae1b -1
+0x100caf59 WW_P_3
+0x100cb210 https://cdn.discordapp.com/attachments/910842184708792331/914047763304550410/Xpadder.bmp
+0x100cb48c -1
+0x100cb5ca WW_P_2
+0x100cb741 https://iplogger.org/2BTmf7
+0x100cb87d -1
+0x100cba0d https://iplogger.org/2BAmf7
+0x100cbb49 -1
+0x100cbcd9 https://iplogger.org/2BDmf7
+0x100cbe15 -1
+0x100cbfa5 https://iplogger.org/2BFmf7
+0x100cc0e1 -1
+0x100cc271 https://iplogger.org/2s2pg6
+0x100cc3ad -1
+0x100cc53d https://iplogger.org/2s3pg6
+0x100cc679 -1
+0x100cc809 https://iplogger.org/2s4pg6
+0x100cc945 -1
+0x100ccad5 https://iplogger.org/2s5pg6
+0x100ccc11 -1
+0x100ccda1 https://iplogger.org/2s6pg6
+0x100ccedd -1
+0x100cd06d https://iplogger.org/2s7pg6
+0x100cd1a9 -1
+0x100cd324 WW_20
+0x100cd4eb http://185.215.113.208/ferrari4.exe
+0x100cd677 -1
+0x100cda36 id
+0x100cdb60 cold
+0x100cdc7a browser
+0x100cdd81 crypto_wallets
+0x100cde8b links
+0x100ce224 id
+0x100ce33b domain
+0x100ce442 bank_wallets
+0x100ce54c links
+0x100ce8e7 id
+0x100ce9fe domain
+0x100ceb05 cu_bank_wallets
+0x100cec0f links
+0x100cefa8 id
+0x100cf0bf domain
+0x100cf1c6 shop_wallets
+0x100cf2d0 links
+0x100cf66b id
+0x100cf782 domain
+0x100cf889 bank_au_wallets
+0x100cf993 links
+0x100cfd2f id
+0x100cfe46 domain
+0x100cff50 amazon_eu
+0x100d005a links
+0x100d03f8 id
+0x100d050f domain
+0x100d0619 webhosts
+0x100d0723 links
+0x100d0abf id
+0x100d0bd6 domain
+0x100d0ce0 paypal
+0x100d0dea links
+0x100d1188 id
+0x100d129f domain
+0x100d13a9 bank_ca_wallets
+0x100d14b3 links
+0x100d1855 id
+0x100d197f cold
+0x100d1a9c browser
+0x100d1ba6 crypto_wallets
+0x100d1cb0 links
+0x100d204c id
+0x100d2163 browser
+0x100d226d crypto_wallets
+0x100d2377 links
+0x100d2715 id
+0x100d282c domain
+0x100d2936 bank_wallets
+0x100d2a40 links
+0x100d2ddc id
+0x100d2ef3 domain
+0x100d2ffd bank_wallets
+0x100d3107 links
+0x100d34a5 id
+0x100d35bc domain
+0x100d36c6 browser_vbmt
+0x100d37d0 links
+0x100d3b6c id
+0x100d3c83 domain
+0x100d3d8d bank_wallets
+0x100d3e97 links
+0x100d423f id
+0x100d4356 domain
+0x100d4460 bank_wallets
+0x100d456a links
+0x100d48d5 id
+0x100d49ec browser
+0x100d4af6 crypto_wallets
+0x100d4c00 links
+0x100d4f9e id
+0x100d50b5 domain
+0x100d51bf bank_wallets
+0x100d52c9 links
+0x100d5665 id
+0x100d577c domain
+0x100d5886 bank_wallets
+0x100d5990 links
+0x100d5c26 GetCryptoSleeping
+0x100d5d89 _
+0x100d6e20 -1
+0x100d6f49 2490
+0x100d705d 2504
+0x100d7171 2636
+0x100d7312 id
+0x100d741c links
+0x100d817b EU
+0x100d82de USA_1
+0x100d8441 USA_2
+0x100d85a3 WW_1
+0x100d8706 WW_2
+0x100d8869 WW_3
+0x100d89cb WW_4
+0x100d8b2e WW_5
+0x100d8c91 WW_6
+0x100d8df3 WW_7
+0x100d8f56 WW_OPERA
+0x100d90b9 WW_8
+0x100d921b WW_9
+0x100d937e WW_10
+0x100d94e1 WW_11
+0x100d9643 WW_12
+0x100d97a6 WW_13
+0x100d9909 WW_14
+0x100d9a6b WW_15
+0x100d9bce WW_P_1
+0x100d9d31 WW_16
+0x100d9e93 WW_17
+0x100d9ff6 WW_P_2
+0x100da159 WW_P_3
+0x100da2bb WW_P_4
+0x100da41e WW_P_5
+0x100da581 WW_P_6
+0x100da6e3 WW_P_7
+0x100da846 WW_P_8
+0x100da9a9 WW_18
+0x100dab0b WW_19
+0x100dac6e WW_20
+0x100dadd1 WW_21
+0x100daf20 WW_14
+0x100db048 USA_1
+0x100db1b6 WW_4
+0x100db2c8 WW_19
+0x100db868 US
+0x100db9c7 USA_2
+0x100dbf84 WW_P_
+0x100dc0a5 WW_P_1
+0x100dc764 |
+0x100dc888 IsUseDominationProject|
+0x100dcab0 cryptoWallets
+0x100dcb90 browser
+0x100dcc7c status
+0x100dcde9 cryptoWallets
+0x100dcec9 cold
+0x100dcfb5 status
+0x100dd10b bankWallets
+0x100dd1eb status
+0x100dd341 cuBankWallets
+0x100dd421 status
+0x100dd577 shops
+0x100dd657 status
+0x100dd7ad bankAUWallets
+0x100dd88d status
+0x100dd9e3 amazon_eu
+0x100ddac3 status
+0x100ddc19 webhosts
+0x100ddcf9 status
+0x100dde4f paypal
+0x100ddf2f status
+0x100de085 bankCAWallets
+0x100de165 status
+0x100de30b cryptoWallets_part1
+0x100de43b status
+0x100de5e1 cryptoWallets_part2
+0x100de711 status
+0x100de8b7 bankWallets_part1
+0x100de9e7 status
+0x100deb72 bankWallets_part2
+0x100dec9f status
+0x100dedf5 VBMT
+0x100deed5 status
+0x100df02b bankMXWallets
+0x100df10b status
+0x100df261 cryptoGames
+0x100df341 status
+0x100df497 bankPKWallets
+0x100df577 status
+0x100df6cd bankESWallets
+0x100df7ad status
+0x100dfb77 SetLoaderAnalyze|
+0x100dfd76 SetIncrement|not_elevated
+0x100fb704 .
+0x100fb82c .dll
+0x100fb952 #
+0x100fbe07 WinHttpConnect
+0x100fbedb Winhttp.dll
+0x100fc036 WinHttpQueryHeaders
+0x100fc157 Winhttp.dll
+0x100fc27d WinHttpOpen
+0x100fc351 Winhttp.dll
+0x100fc4bb WinHttpOpenRequest
+0x100fc5dc Winhttp.dll
+0x100fc752 WinHttpQueryDataAvailable
+0x100fc876 Winhttp.dll
+0x100fc9ec WinHttpSendRequest
+0x100fcb10 Winhttp.dll
+0x100fcc6b WinHttpReceiveResponse
+0x100fcd8c Winhttp.dll
+0x100fceb2 WinHttpReadData
+0x100fcf86 Winhttp.dll
+0x100fd0e1 WinHttpCloseHandle
+0x100fd202 Winhttp.dll
+0x100fd502 http://
+0x100fd5e1 /
+0x100fd783 ?
+0x100fe717 HEAD
+0x100fec7e wb
+0x100ff1d9 InternetOpenA
+0x100ff304 InternetSetOptionA
+0x100ff48b HttpOpenRequestA
+0x100ff61e InternetConnectA
+0x100ff7b4 InternetOpenUrlA
+0x100ff8fa HttpQueryInfoA
+0x100ffa40 InternetQueryOptionA
+0x100ffbd6 HttpSendRequestA
+0x100ffd51 InternetReadFile
+0x100ffec9 InternetCloseHandle
