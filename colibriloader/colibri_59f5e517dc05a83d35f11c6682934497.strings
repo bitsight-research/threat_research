@@ -1,0 +1,71 @@
+0x401faf %s\\%s
+0x401fd4 \\Microsoft\\WindowsApps
+0x401ffa Get-Variable.exe
+0x402020 powershell.exe -windowstyle hidden
+0x402046 %s:Zone.Identifier
+0x40229c %s\\%s
+0x4022c1 \\WindowsPowerShell
+0x4022e7 dllhost.exe
+0x40230d %s:Zone.Identifier
+0x402579 %s\\%s
+0x40259e \\Microsoft\\WindowsApps
+0x4025c4 Get-Variable.exe
+0x402706 %s\\%s
+0x40272b \\WindowsPowerShell
+0x402751 dllhost.exe
+0x4028e5 %s:Zone.Identifier
+0x402999 runas
+0x4029bf cmd.exe
+0x4029e5 /c %s%s%s %s
+0x402b49 %s\\rundll32.exe %s,%s
+0x402c4e %s /s
+0x402c74 runas
+0x402ca8 %s\\System32\\regsrv32.exe
+0x402cff %s\\SysWOW64\\regsrv32.exe
+0x402e48 /c %s%s%s %s
+0x402e6e cmd.exe
+0x402e94 open
+0x403041 %s%s
+0x403612 6rmUi1hRdfbV0QyXqAoT
+0x4037c0 /c chcp 65001 && ping 127.0.0.1 && DEL /F /S /Q /A %s%s%s
+0x4037e5 cmd.exe
+0x4038db Software\\Microsoft\\Windows NT\\CurrentVersion
+0x403903 ProductName
+0x4039cc Unknown
+0x403c07 %08lX%04lX%lu
+0x403c81  /create /tn COMSurrogate /st 00:00 /du 9999:59 /sc once /ri 1 /f /tr 
+0x403ca7 %s\\schtasks.exe
+0x403e4b %s\\schtasks.exe
+0x403e71  /delete /tn COMSurrogate /f
+0x404058 Content-Type: application/x-www-form-urlencoded
+0x404488 zpltcmgodhvvedxtfcygvbgjkvgvcguygytfigj.cc
+0x4044ad yugyuvyugguitgyuigtfyutdtoghghbbgyv.cx
+0x404582 /gate.php
+0x4045a8 hf9qkeO66MP7WJXkg9rp
+0x4045ce 2OrnJZG6Wtbzd4bKJoS0
+0x4045f4 %s?type=%s&uid=%s
+0x40461a check
+0x404640 GET
+0x404666 HTTP/1.1
+0x40489d 1.2.0
+0x4048c3 Build1
+0x4048e9 /gate.php
+0x40490f hf9qkeO66MP7WJXkg9rp
+0x404934 2OrnJZG6Wtbzd4bKJoS0
+0x40495a %s?type=%s&uid=%s
+0x404980 update
+0x4049a6 POST
+0x4049cc HTTP/1.1
+0x4049f2 %s|%s|%s|%s|%s|%s|%s
+0x404a18 32bit
+0x404a3e 64bit
+0x404d9c Build1
+0x404dc3 /gate.php
+0x404dec hf9qkeO66MP7WJXkg9rp
+0x404e13 2OrnJZG6Wtbzd4bKJoS0
+0x404e3a %s?type=%s&uid=%s
+0x404e61 ping
+0x404e88 POST
+0x404eaf HTTP/1.1
+0x404ed6 %s|%s|%s|%s|%s|%s|%s
+0x4054d3 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
