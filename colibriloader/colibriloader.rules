@@ -1,0 +1,1 @@
+alert http $HOME_NET any -> $EXTERNAL_NET 80 ( msg:"BitSight MALWARE ColibriLoader"; flow:established,to_server; content:"GET";http_method; content:"gate.php?type=check&uid=";http_uri; pcre:"/^[a-zA-Z0-9]{20}$/V"; reference:url,https://malpedia.caad.fkie.fraunhofer.de/details/win.colibri; sid:2008025;)
