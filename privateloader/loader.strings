@@ -1,3 +1,5 @@
+# Sample: 8f70a0f45532261cb4df2800b141551d
+
 0x4003ee GetCurrentProcess
 0x400469 CreateThread
 0x4004ba CreateFileA
