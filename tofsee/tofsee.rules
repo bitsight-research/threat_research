@@ -1,0 +1,2 @@
+alert tcp $EXTERNAL_NET any -> $HOME_NET any ( msg:"BitSight MALWARE Possible Tofsee Server Hello"; flow:established,from_server; dsize:200; flowbits:set,TOFSEE_C2_GREET; flowbits:noalert; reference:url,malpedia.caad.fkie.fraunhofer.de/details/win.tofsee; sid:2008025; rev:1;)
+alert tcp $HOME_NET any -> $EXTERNAL_NET any ( msg:"BitSight MALWARE Tofsee Hello"; flow:established,from_client; dsize:125; flowbits:isset,TOFSEE_C2_GREET; reference:url,malpedia.caad.fkie.fraunhofer.de/details/win.tofsee; sid:2008026; rev:1;)
