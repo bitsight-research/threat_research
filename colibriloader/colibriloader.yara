@@ -32,7 +32,7 @@ rule win_colibriloader : loader
     license =     "CC BY-NC-SA 4.0"
     
   strings:
-  	// str decrypt loop
+    // str decrypt loop
     // --------------------------
     // xor     edx, edx
     // mov     eax, ebx
