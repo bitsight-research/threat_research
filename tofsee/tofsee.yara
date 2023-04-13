@@ -8,7 +8,7 @@ rule win_tofsee
     org          = "BitSight"
     date         = "2023-03-24"
     md5          = "92e466525e810b79ae23eac344a52027"
-    reference    = "https://malpedia.caad.fkie.fraunhofer.de/details/win.tofsee"
+    reference    = "https://www.bitsight.com/blog/tofsee-botnet-proxying-and-mining"
     license      = "CC BY-NC-SA 4.0"
 
   strings:
