@@ -1,0 +1,1 @@
+$EXTERNAL_NET any -> $HOME_NET [80, 443] ( msg:"Bitsight MALWARE Toxic Panda, TgToxic, Banker, Trojan"; flow:to_server,established; content:"GET";http_method; content:"no-cache";http_header; content:"Dalvik";http_user_agent; pcre:"/\/adv\.php\?apk=.*&cmode=test&device=.*/U";  sid:2629471642; )
