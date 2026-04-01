@@ -1,0 +1,7 @@
+sysmrvhost.exe
+sysmdrhost.exe
+syscfgvhost.exe
+syscrovhost.exe
+syscnrhost.exe
+sysplurbrsvc.exe
+syscnvhost.exe
