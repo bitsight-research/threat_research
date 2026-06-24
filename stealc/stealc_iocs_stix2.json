@@ -1,0 +1,150 @@
+{
+  "type": "bundle",
+  "id": "bundle--060a81d6-a93e-401f-a8dd-9bae97d8b47a",
+  "objects": [
+    {
+      "type": "identity",
+      "spec_version": "2.1",
+      "id": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Bitsight",
+      "identity_class": "organization"
+    },
+    {
+      "type": "malware",
+      "spec_version": "2.1",
+      "id": "malware--add897e1-573e-4d07-a0b2-86b241d51ea5",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "StealC",
+      "is_family": true,
+      "malware_types": [
+        "credential-theft",
+        "information-stealer"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--f0ebf10c-4eb5-48ac-9a29-0d1ab1bb7836",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "StealC IPv4 infrastructure",
+      "description": "StealC C2 and payload-hosting addresses; includes the two shared Amadey addresses.",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[ipv4-addr:value IN ('89.169.53.244', '91.92.240.52', '196.251.107.130', '62.60.226.159', '94.156.155.42', '170.130.55.223', '144.31.57.65', '193.111.117.51', '158.94.210.59', '158.94.211.17', '158.94.208.102')]",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:stealc"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--d3e08b74-46b9-4527-8c78-0dc4d210f5ec",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "StealC C2 domain",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[domain-name:value = 'secure.controlpanel.asia']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:stealc"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5406094b-7c1e-4d91-bc7d-4aef6e0e2117",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "StealC C2 and payload URLs",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value IN ('http://89.169.53.244/71854e1a414647de.php', 'http://91.92.240.52/b386dbfbf4a3432f956d.php', 'http://196.251.107.130/16b022998f754137b60a.php', 'http://94.156.155.42/ba4b1981c6311c6e6f1a.php', 'http://62.60.226.159/znz.exe', 'http://62.60.226.159/zx.exe', 'http://158.94.208.102/bot_x64.exe')]",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:stealc"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--124ee7ba-a406-497e-b2fa-a4f65a1b8642",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "StealC SHA-256 sample and loader hashes",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' IN ('f4584140becea8907edb22c8a99d5e9e9157931aa1e2ab29522adbc9ba684f07', 'bf24277400cc453d530e4277d3bd24e96c5e409adef6970518bdc59205aa0241', '9735cb203175e5b77ea68f665d81aed39a7e85b6f484a0948c81ac85d9a5f3d4', '2841aab00ee6f00213e594dc562d03b982e6d8570a6de2a0797f3a147665f4ca', '4dc02f52216eee33e946e81e21860f951e2f5d47b54a7615209b02071ce3480c', '9511ac1a00c40e879a726eed9a549adc725faff959b218011d3ed1c66f478674')]",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:stealc"
+      ]
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--3136e949-47d8-415c-9df1-8663b48e3e31",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--f0ebf10c-4eb5-48ac-9a29-0d1ab1bb7836",
+      "target_ref": "malware--add897e1-573e-4d07-a0b2-86b241d51ea5"
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--d72a7e4b-8674-4b40-a345-c12cf3966430",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--d3e08b74-46b9-4527-8c78-0dc4d210f5ec",
+      "target_ref": "malware--add897e1-573e-4d07-a0b2-86b241d51ea5"
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--362bcf7a-0a7d-4cfa-874b-12e9b436d1f1",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--5406094b-7c1e-4d91-bc7d-4aef6e0e2117",
+      "target_ref": "malware--add897e1-573e-4d07-a0b2-86b241d51ea5"
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--4b615570-f12f-4a11-b843-70ae93c4c17c",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--124ee7ba-a406-497e-b2fa-a4f65a1b8642",
+      "target_ref": "malware--add897e1-573e-4d07-a0b2-86b241d51ea5"
+    }
+  ]
+}

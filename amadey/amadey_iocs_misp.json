@@ -1,0 +1,173 @@
+{
+  "Event": {
+    "info": "Bitsight research: Amadey disruption IOCs",
+    "date": "2026-06-23",
+    "threat_level_id": 1,
+    "analysis": 2,
+    "distribution": 3,
+    "published": false,
+    "Attribute": [
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "91.92.242.236",
+        "comment": "Amadey C2; v5.78 campaigns 54e64e and 9d2ca3"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "62.60.226.159",
+        "comment": "Amadey v5.80 C2 (campaign 282234) and StealC payload host"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "196.251.107.130",
+        "comment": "Amadey v5.80 C2 and StealC v2 C2"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "196.251.107.248",
+        "comment": "Amadey v5.80 C2 and plugin exfiltration; campaign d52f85"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "176.65.144.60",
+        "comment": "Amadey v5.80 C2 and plugin exfiltration; campaign d854e4"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "163.245.208.50",
+        "comment": "Amadey v5.80 C2; campaign 135e7b; 90-day telemetry"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "94.154.35.25",
+        "comment": "Amadey v5.55 C2; campaign fbf543; 90-day telemetry"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "91.92.241.243",
+        "comment": "Amadey v5.78 plugin and payload distribution"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "62.60.226.140",
+        "comment": "Amadey follow-up payload host; 90-day emulator telemetry"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://91.92.242.236/oPvjr94jfe/index.php",
+        "comment": "Amadey C2; v5.78"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://62.60.226.159/Psd8eZaW/index.php",
+        "comment": "Amadey C2; v5.80 campaign 282234"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://196.251.107.130/h84jjfAr/index.php",
+        "comment": "Amadey C2; v5.80 campaign 282234 secondary"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://196.251.107.248/kont2rt/index.php",
+        "comment": "Amadey C2 and plugin exfiltration; v5.80 campaign d52f85"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://176.65.144.60/Psd8eZaW/index.php",
+        "comment": "Amadey C2; v5.80 campaign d854e4"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://163.245.208.50/Psd8eZaW/",
+        "comment": "Amadey C2; v5.80 campaign 135e7b"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://94.154.35.25/di9ku38f/",
+        "comment": "Amadey C2; v5.55 campaign fbf543"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "72e27dc4ded2a76a5c29109161b87c3ea8f677eb355e79cedecc99b1b1fa6aff",
+        "comment": "Amadey v5.78 x86; campaign 54e64e"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "5258a241f8c67e1666060e2c033d127dee8c2c50c7a8dfe0676264e9cb6762c1",
+        "comment": "Amadey v5.80 x64; campaign 282234"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "da921834b074ea5c015dbe16ec50ed110700609cfb469240bb96139b20d313fa",
+        "comment": "Amadey v5.80 x64 custom-packed; campaign d854e4"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "fd06ae3e73f328efef8e2589a126443f7ab5ef6fee8334cd938005f2b5c907b9",
+        "comment": "Amadey cred64.dll canned stealer plugin"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "3d966faf6abea9dc401515b863887466f6f5913b0c27e1d79d7bebc994efb16e",
+        "comment": "Amadey file.dll / STEALERDLL custom plugin"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bae0f38f58ad93728261f09840721ebedb9669a445f40083396fdd0da38a22a7",
+        "comment": "Amadey clip.dll x86 clipper plugin"
+      },
+      {
+        "type": "md5",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "40e502533b2a521d0974e1d9b6076c82",
+        "comment": "Amadey clip.dll x86 clipper plugin"
+      }
+    ]
+  }
+}

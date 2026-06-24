@@ -1,0 +1,150 @@
+{
+  "type": "bundle",
+  "id": "bundle--6483dfaa-a0f8-4f9a-a253-164ab0f6c70c",
+  "objects": [
+    {
+      "type": "identity",
+      "spec_version": "2.1",
+      "id": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Bitsight",
+      "identity_class": "organization"
+    },
+    {
+      "type": "malware",
+      "spec_version": "2.1",
+      "id": "malware--646b6da1-46f1-414a-b05e-8d1df46543d7",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Amadey",
+      "is_family": true,
+      "malware_types": [
+        "downloader",
+        "remote-access-trojan"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--28c4018d-c13a-4a17-a347-b542975a1a01",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Amadey IPv4 infrastructure",
+      "description": "Amadey C2 and payload-distribution addresses.",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[ipv4-addr:value IN ('91.92.242.236', '62.60.226.159', '196.251.107.130', '196.251.107.248', '176.65.144.60', '163.245.208.50', '94.154.35.25', '91.92.241.243', '62.60.226.140')]",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:amadey"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--e7937072-3e05-4a95-842e-8ce1db62d8a9",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Amadey C2 URLs",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[url:value IN ('http://91.92.242.236/oPvjr94jfe/index.php', 'http://62.60.226.159/Psd8eZaW/index.php', 'http://196.251.107.130/h84jjfAr/index.php', 'http://196.251.107.248/kont2rt/index.php', 'http://176.65.144.60/Psd8eZaW/index.php', 'http://163.245.208.50/Psd8eZaW/', 'http://94.154.35.25/di9ku38f/')]",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:amadey"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--321a8386-1086-4dfa-b9a7-cba2ccdb1d08",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Amadey SHA-256 sample and plugin hashes",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.'SHA-256' IN ('72e27dc4ded2a76a5c29109161b87c3ea8f677eb355e79cedecc99b1b1fa6aff', '5258a241f8c67e1666060e2c033d127dee8c2c50c7a8dfe0676264e9cb6762c1', 'da921834b074ea5c015dbe16ec50ed110700609cfb469240bb96139b20d313fa', 'fd06ae3e73f328efef8e2589a126443f7ab5ef6fee8334cd938005f2b5c907b9', '3d966faf6abea9dc401515b863887466f6f5913b0c27e1d79d7bebc994efb16e', 'bae0f38f58ad93728261f09840721ebedb9669a445f40083396fdd0da38a22a7')]",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:amadey"
+      ]
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--668cb2a1-5b1b-44e9-9e65-b6ae4ed36a06",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "name": "Amadey MD5 plugin hash",
+      "indicator_types": [
+        "malicious-activity"
+      ],
+      "pattern": "[file:hashes.MD5 = '40e502533b2a521d0974e1d9b6076c82']",
+      "pattern_type": "stix",
+      "pattern_version": "2.1",
+      "valid_from": "2026-06-23T00:00:00Z",
+      "labels": [
+        "family:amadey"
+      ]
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--48f6582a-d0e9-4c74-b6a5-94f6bfdf17d1",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--28c4018d-c13a-4a17-a347-b542975a1a01",
+      "target_ref": "malware--646b6da1-46f1-414a-b05e-8d1df46543d7"
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--63ed29e6-e09f-4b3e-9e5f-75957ab4b4e8",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--e7937072-3e05-4a95-842e-8ce1db62d8a9",
+      "target_ref": "malware--646b6da1-46f1-414a-b05e-8d1df46543d7"
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--5754b273-38d2-4615-a230-34e98f2f0e80",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--321a8386-1086-4dfa-b9a7-cba2ccdb1d08",
+      "target_ref": "malware--646b6da1-46f1-414a-b05e-8d1df46543d7"
+    },
+    {
+      "type": "relationship",
+      "spec_version": "2.1",
+      "id": "relationship--7f869341-c68a-4f91-adf5-7782c6c2920d",
+      "created_by_ref": "identity--350d5065-bf5a-48e1-a128-0948c35347f7",
+      "created": "2026-06-23T00:00:00.000Z",
+      "modified": "2026-06-23T00:00:00.000Z",
+      "relationship_type": "indicates",
+      "source_ref": "indicator--668cb2a1-5b1b-44e9-9e65-b6ae4ed36a06",
+      "target_ref": "malware--646b6da1-46f1-414a-b05e-8d1df46543d7"
+    }
+  ]
+}

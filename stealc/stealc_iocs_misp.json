@@ -1,0 +1,187 @@
+{
+  "Event": {
+    "info": "Bitsight research: StealC disruption IOCs",
+    "date": "2026-06-23",
+    "threat_level_id": 1,
+    "analysis": 2,
+    "distribution": 3,
+    "published": false,
+    "Attribute": [
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "62.60.226.159",
+        "comment": "Amadey v5.80 C2 (campaign 282234) and StealC payload host"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "196.251.107.130",
+        "comment": "Amadey v5.80 C2 and StealC v2 C2"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "89.169.53.244",
+        "comment": "StealC v2 x64 C2; sample 000"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "91.92.240.52",
+        "comment": "StealC v2 x86 C2; sample 001"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "94.156.155.42",
+        "comment": "StealC v2 C2; sample 003"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "170.130.55.223",
+        "comment": "StealC C2 active in 90-day telemetry; build tick"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "144.31.57.65",
+        "comment": "StealC C2 active in 90-day telemetry; build port"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "193.111.117.51",
+        "comment": "StealC C2 active in 90-day telemetry; build neverhigh"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "158.94.210.59",
+        "comment": "StealC C2 active in 90-day telemetry; build 888"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "158.94.211.17",
+        "comment": "StealC C2; resolution for secure.controlpanel.asia; build CDCDCDC"
+      },
+      {
+        "type": "ip-dst",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "158.94.208.102",
+        "comment": "StealC bot_x64.exe follow-up loader host"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://89.169.53.244/71854e1a414647de.php",
+        "comment": "StealC v2 x64 C2; sample 000"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://91.92.240.52/b386dbfbf4a3432f956d.php",
+        "comment": "StealC v2 x86 C2; sample 001"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://196.251.107.130/16b022998f754137b60a.php",
+        "comment": "StealC v2 x64 C2; sample 002"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://94.156.155.42/ba4b1981c6311c6e6f1a.php",
+        "comment": "StealC v2 C2; sample 003"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://62.60.226.159/znz.exe",
+        "comment": "StealC follow-up payload"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://62.60.226.159/zx.exe",
+        "comment": "StealC follow-up payload"
+      },
+      {
+        "type": "url",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "http://158.94.208.102/bot_x64.exe",
+        "comment": "StealC bot_x64.exe follow-up loader"
+      },
+      {
+        "type": "domain",
+        "category": "Network activity",
+        "to_ids": true,
+        "value": "secure.controlpanel.asia",
+        "comment": "StealC C2; build CDCDCDC; resolved to 158.94.211.17"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "f4584140becea8907edb22c8a99d5e9e9157931aa1e2ab29522adbc9ba684f07",
+        "comment": "StealC v2 x64 sample 000"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "bf24277400cc453d530e4277d3bd24e96c5e409adef6970518bdc59205aa0241",
+        "comment": "StealC v2 x86 sample 001"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9735cb203175e5b77ea68f665d81aed39a7e85b6f484a0948c81ac85d9a5f3d4",
+        "comment": "StealC v2 x64 sample 002; build RUN"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "2841aab00ee6f00213e594dc562d03b982e6d8570a6de2a0797f3a147665f4ca",
+        "comment": "StealC bot_x64.exe follow-up loader"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "4dc02f52216eee33e946e81e21860f951e2f5d47b54a7615209b02071ce3480c",
+        "comment": "StealC bot_x64.exe follow-up loader"
+      },
+      {
+        "type": "sha256",
+        "category": "Payload delivery",
+        "to_ids": true,
+        "value": "9511ac1a00c40e879a726eed9a549adc725faff959b218011d3ed1c66f478674",
+        "comment": "StealC bot_x64.exe follow-up loader"
+      }
+    ]
+  }
+}
